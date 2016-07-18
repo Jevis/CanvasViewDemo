@@ -18,5 +18,5 @@
         android:layout_centerInParent="true"/>
 ```
 ###4.动画效果
-
-![](http://uploadgif.55.la/upload/temp/2016/07/18/16/3138839935.gif)
+![](http://chuantu.biz/t5/19/1468833831x3738746523.png)
+![](http://chuantu.biz/t5/19/1468833870x3738746523.gif)
