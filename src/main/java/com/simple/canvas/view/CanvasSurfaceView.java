@@ -24,7 +24,7 @@ import java.util.Random;
  * @version v2.0
  * @date 2016-7-18 上午10:34:51
  */
-public class CanvasSurfaceView extends g implements SurfaceHolder.Callback {
+public class CanvasSurfaceView extends SurfaceView implements SurfaceHolder.Callback {
     public Paint mPaint = new Paint();
     private int mTotalWidth;
     private int mTotalHeight;
